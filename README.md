@@ -10,8 +10,8 @@ Follow these steps to set up and run the client:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/flowsuite-client.git
-   cd flowsuite-client
+   git clone https://github.com/your-username/flowsuite-js-client.git
+   cd flowsuite-js-client
    ```
 2. Install dependencies:
    ```sh
